@@ -1,0 +1,86 @@
+.website_idea{
+    font-size: 40px;  
+    color: #000080; 
+    font-family: 'Roboto', sans-serif;
+}
+hr{
+  height: 2px;
+  border: 0;
+  background-color: #000080;
+}
+a{
+    font-family: 'Open Sans', sans-serif;
+}
+.text {
+    display: inline-block;   
+    padding: 4px 10px;   
+    font-size: 15px;    
+    border-right: 1px solid #000080;
+}
+
+header{
+    display: flex;
+    align-items: center;
+}
+
+.menu li{
+    list-style-type: none; 
+    display: inline;   
+    margin-left: 1px;
+}
+
+.vibirite {
+        height: 10em;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+        .vibirite p {
+            font-size: 20pt;
+        margin: 0;
+        font-family: 'Roboto', sans-serif; 
+        color: #f7941e;
+    }
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mashinka{
+    height: 275px;
+     width: 475px;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text1{
+    margin-top: -35px;
+    font-size: 20pt;
+    font-family: 'Open Sans', sans-serif;
+}
+.text2{
+    margin-top: 5px;
+    font-size: 20pt;
+    font-family: 'Open Sans', sans-serif;
+}
+.btn{
+background-color: #39b54a;
+padding: 30px 90px;
+color: aliceblue;
+cursor: pointer;
+font-size:20pt;
+font-family: 'Open Sans', sans-serif;
+
+        }
+.btn:hover{
+    background-color: #464a4c;
+}
+.container3{
+    margin-top: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
